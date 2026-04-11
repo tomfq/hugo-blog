@@ -8,4 +8,4 @@ layout: single
 
 图片很行
 
-[Juice-min.jpg](https://postimg.cc/Z0CCQRCN)
+[![Juice-min.jpg](https://i.postimg.cc/ry9xKRTf/Juice-min.jpg)](https://postimg.cc/Z0CCQRCN)
