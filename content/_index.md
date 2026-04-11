@@ -7,4 +7,5 @@ layout: single
 这是我的自定义主页！在这里可以写任何我想展示的内容。
 
 图片很行
-[![mouse-juice.jpg](https://i.postimg.cc/G36ftpcJ/mouse-juice.jpg)](https://postimg.cc/Hj4zPd8V)
+
+[Juice-min.jpg](https://postimg.cc/Z0CCQRCN)
