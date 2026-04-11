@@ -5,3 +5,6 @@ layout: single
 ---
 
 这是我的自定义主页！在这里可以写任何我想展示的内容。
+
+好像图片不行
+[Imgur](https://i.imgur.com/fDR9yLg.jpg)
