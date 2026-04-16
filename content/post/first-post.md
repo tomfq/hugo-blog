@@ -1,23 +1,30 @@
 +++
 date = '2026-03-31T18:23:18+08:00'
 draft = false
-title = 'First Post'
+title = 'EnglishPod 1'
 +++
 
-# Hello Hugo!
+## Elementary - Difficult Customer (B0001)
 
-This is my first blog!!!
+A: Good evening. My name is Fabio, I’ll be your waiter for tonight. May I take your order?
+B: No, I’m still working on it. This menu is not even in English. What’s good here?
+A: For you sir, I would recommend spaghetti and meatballs.
+B: Does it come with coke and fries?
+A: It comes with either soup or salad and a complimentary glass of wine, Sir.
+B: I’ll go with the spaghetti and meatballs, salad and the wine.
+A: Excellent choice, your order will be ready soon.
+B: How soon is soon?
+A: Twenty minutes?
+B: You know what? I’ll just go grab a burger across the street.”
 
-## 2 title
+## Key Vocabulary
 
-### 3 title
-
-- a
-- b 
-- c
-
-1. one
-2. two
-3. three
-
-[Imgur](https://i.imgur.com/fDR9yLg.jpg)
+**still working on**
+ Phrase
+would recommend Verb complimentary Adjective go with Phrase grab Verb
+Supplementary Vocabulary
+waitress Noun
+not yet completed, need more time
+suggest
+free
+to choose, pick get quickly
