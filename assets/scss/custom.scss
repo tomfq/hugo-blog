@@ -1,0 +1,11 @@
+/* 代码块自动换行 */
+pre code {
+  white-space: pre-wrap !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* 防止外层 pre 限制 */
+pre {
+  white-space: pre-wrap !important;
+}

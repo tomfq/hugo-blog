@@ -5,6 +5,7 @@ theme = "stack"
 
 [params]
   mainSections = ["post"]
+  customCSS = ["scss/custom.scss"]
 
 [menu]
 
