@@ -1,6 +1,6 @@
 baseURL = "https://hugo-blog-taupe.vercel.app/"
-languageCode = "zh-cn"
-title = "我的博客"
+languageCode = "en-us"
+title = "English Mania"
 theme = "stack"
 
 [params]
@@ -10,11 +10,11 @@ theme = "stack"
 [menu]
 
   [[menu.main]]
-    name = "首页"
+    name = "Home"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "文章"
+    name = "Posts"
     url = "/post/"
     weight = 2
