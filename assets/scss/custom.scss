@@ -3,6 +3,10 @@ pre code {
   white-space: pre-wrap !important;
   word-break: break-word;
   overflow-wrap: break-word;
+
+  /* 👇 新增优化（直接加这里） */
+  font-size: 14px;
+  line-height: 1.6;
 }
 
 /* 防止外层 pre 限制 */
