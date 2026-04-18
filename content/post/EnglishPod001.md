@@ -26,13 +26,24 @@ A: Twenty minutes?
 
 B: You know what? I’ll just go grab a burger across the street.”
 
+ impatient Adjective uncomfortable waiting, wanting to go fancy Adjective nice, expensive, up-scale casual Adjective relaxed, not dressy
 
-**Key Vocabulary**
+### Key Vocabulary
 
-| Vocabulary / Phrase | Part of Speech | Definition / Meaning              |
-| ------------------- | -------------- | --------------------------------- |
-| still working on    | Phrase         | not yet completed, need more time |
-| would recommend     | Verb           | suggest                           |
-| complimentary       | Adjective      | free                              |
-| go with             | Phrase         | to choose, pick                   |
-| grab                | Verb           | get quickly                       |
+| Vocabulary / Phrase  | Part of Speech | Definition / Meaning              |
+| -------------------- | -------------- | --------------------------------- |
+| **still working on** | Phrase         | not yet completed, need more time |
+| **would recommend**  | Verb           | suggest                           |
+| **complimentary**    | Adjective      | free                              |
+| **go with**          | Phrase         | to choose, pick                   |
+| **grab**             | Verb           | get quickly                       |
+
+### Supplementary Vocabulary
+
+| Target Word   | Part of Speech | Definition & Context                 |
+| ------------- | -------------- | ------------------------------------ |
+| **waitress**  | Noun           | female server at a restaurant or bar |
+| **fast food** | Phrase         | food prepared and served quickly     |
+|               |                |                                      |
+|               |                |                                      |
+|               |                |                                      |
