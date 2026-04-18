@@ -27,12 +27,12 @@ A: Twenty minutes?
 B: You know what? I’ll just go grab a burger across the street.”
 
 
-
 **Key Vocabulary**
 
-| Vocabulary / Phrase | Part of Speech | Definition / Meaning             |
-| still working on    | Phrase         | not yet completed, needmore time |
-| would recommend     | Verb           | suggest                          |
-| complimentary       | Adjective      | free                             |
-| go with             | Phrase         | to choose, pick                  |
-| grab                | Verb           | get quickly                      |
+| Vocabulary / Phrase | Part of Speech | Definition / Meaning              |
+| ------------------- | -------------- | --------------------------------- |
+| still working on    | Phrase         | not yet completed, need more time |
+| would recommend     | Verb           | suggest                           |
+| complimentary       | Adjective      | free                              |
+| go with             | Phrase         | to choose, pick                   |
+| grab                | Verb           | get quickly                       |
