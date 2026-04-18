@@ -26,14 +26,12 @@ A: Twenty minutes?
 
 B: You know what? I’ll just go grab a burger across the street.”
 
-## Key Vocabulary
+## **Key Vocabulary**
 
-**still working on**
- Phrase
-would recommend Verb complimentary Adjective go with Phrase grab Verb
-Supplementary Vocabulary
-waitress Noun
-not yet completed, need more time
-suggest
-free
-to choose, pick get quickly
+|                  |        |                                  |
+| ---------------- | ------ | -------------------------------- |
+| still working on | Phrase | not yet completed, needmore time |
+| would recommend  | Verb   | suggest                          |
+|                  |        |                                  |
+|                  |        |                                  |
+|                  |        |                                  |
