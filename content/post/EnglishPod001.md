@@ -31,7 +31,6 @@ B: You know what? I’ll just go grab a burger across the street.”
 **Key Vocabulary**
 
 | Vocabulary / Phrase | Part of Speech | Definition / Meaning             |
-| ------------------- | -------------- | -------------------------------- |
 | still working on    | Phrase         | not yet completed, needmore time |
 | would recommend     | Verb           | suggest                          |
 | complimentary       | Adjective      | free                             |
