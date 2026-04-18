@@ -24,9 +24,8 @@ B: How soon is soon?
 
 A: Twenty minutes?
 
-B: You know what? I’ll just go grab a burger across the street.”
+B: You know what? I’ll just go grab a burger across the street.
 
- impatient Adjective uncomfortable waiting, wanting to go fancy Adjective nice, expensive, up-scale casual Adjective relaxed, not dressy
 
 ### Key Vocabulary
 
@@ -44,6 +43,6 @@ B: You know what? I’ll just go grab a burger across the street.”
 | ------------- | -------------- | ------------------------------------ |
 | **waitress**  | Noun           | female server at a restaurant or bar |
 | **fast food** | Phrase         | food prepared and served quickly     |
-|               |                |                                      |
-|               |                |                                      |
-|               |                |                                      |
+| **impatient** | Adjective      | uncomfortable waiting, wanting to go |
+| **fancy**     | Adjective      | nice, expensive, up-scale            |
+| **casual**    | Adjective      | relaxed, not dressy                  |

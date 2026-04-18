@@ -1,11 +1,7 @@
 ---
-title: "欢迎来到我的博客"
-date: 2024-01-01
+title: "Welcome"
+date: 2026-04-18
 layout: single
 ---
 
 这是我的自定义主页！在这里可以写任何我想展示的内容。
-
-图片很行
-
-[![Juice-min.jpg](https://i.postimg.cc/ry9xKRTf/Juice-min.jpg)](https://postimg.cc/Z0CCQRCN)
