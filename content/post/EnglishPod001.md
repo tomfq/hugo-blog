@@ -24,9 +24,7 @@ B: How soon is soon?
 
 A: Twenty minutes?
 
-B: You know what? I’ll just go grab a burger across the street.
-
-Antidisestablishmentarianism is often cited as one of the longest words.
+B: You know what? I’ll just go grab a burger across the street. Antidisestablishmentarianism is often cited as one of the longest words.
 
 
 ### Key Vocabulary
