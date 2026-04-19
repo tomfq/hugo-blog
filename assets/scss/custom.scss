@@ -14,17 +14,20 @@ pre {
   white-space: pre-wrap !important;
 }
 
-/* 英文自动断词（类似 Kindle） */
-.post-content {
-  text-align: justify;         /* 两端对齐（关键） */
-  hyphens: auto;               /* 自动断词 */
-  -webkit-hyphens: auto;       /* Safari / iOS */
-  -ms-hyphens: auto;           /* 兼容旧浏览器 */
-  word-break: normal;          /* 不粗暴断词 */
-  overflow-wrap: break-word;   /* 防止溢出 */
+/* Kindle 风格排版 */
+.article-content {
+  text-align: justify;        /* 两端对齐（关键） */
+  text-justify: inter-word;
+
+  hyphens: auto;              /* 自动断词 */
+  -webkit-hyphens: auto;      /* Safari / iOS */
+  -ms-hyphens: auto;          /* 兼容旧浏览器 */
+
+  word-break: normal;         /* 不粗暴断词 */
+  overflow-wrap: break-word;  /* 防止溢出 */
 }
 
-/* 段落优化 */
-.post-content p {
+/* 段落间距优化 */
+.article-content p {
   margin-bottom: 1.2em;
 }
