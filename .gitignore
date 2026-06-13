@@ -1,4 +1,34 @@
+# Hugo 生成文件
 /public/
 /resources/_gen/
+
+# Node.js
 /node_modules/
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Synology DSM
+@eaDir/
+**/@eaDir/
+
+# Linux
+*~
+.nfs*
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
