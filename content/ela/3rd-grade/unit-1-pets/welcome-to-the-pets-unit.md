@@ -18,7 +18,10 @@ draft: false
 
 Have you ever had a pet, or made friends with someone else’s pet? Pets can help people who are lonely or stressed. Different kinds of pets have different qualities. For example, dogs are very loyal and will cheer you up, and rats are smart and learn things quickly. Each animal, of course, has a special personality too. In this unit, we’ll be reading and thinking about what makes the best kind of pet.
 
-Audio play
+<audio controls preload="none">
+    <source src="https://lc.cc518.eu.org:17667/d/khanacademy-org/ela/3rd-reading-vocab/unit1/lesson1/welcome-to-the-pets-unit.mp3?sign=WRsoQmvczg0arzCmONx_XpAV8zrrUk02af19zBeTtKs=:0" type="audio/mpeg">
+    您的浏览器不支持音频播放。
+</audio>
 
 
 
@@ -44,3 +47,10 @@ Audio play
 - Learning new academic words
 
 **In order to answer the essential question: Which animal makes the best pet?**
+
+**Video Play Test**
+
+<video controls preload="none" width="90%" poster="封面图片链接.jpg">
+    <source src="https://lc.cc518.eu.org:17667/d/khanacademy-org/ela/3rd-reading-vocab/unit1/lesson2/02_What-is-a-main-idea_Reading.mp4?sign=mFHiN8EJlp_JU3LCkNTyYuHbPRKfgFHvYB5K-IzqomQ=:0" type="video/mp4">
+    您的浏览器不支持视频播放。
+</video>
