@@ -49,7 +49,7 @@ Have you ever had a pet, or made friends with someone else’s pet? Pets can hel
 
 **Video Play Test**
 
-<video controls preload="none" width="90%" poster="封面图片链接.jpg">
+<video controls preload="none" width="90%" poster="https://lc.cc518.eu.org:17667/d/khanacademy-org/video-play.png?sign=HrznCTTKvzHZy1b8-u-YOTfAWzOGJmixwBPfgRFKpQc=:0">
     <source src="https://lc.cc518.eu.org:17667/d/khanacademy-org/ela/3rd-reading-vocab/unit1/lesson2/02_What-is-a-main-idea_Reading.mp4?sign=mFHiN8EJlp_JU3LCkNTyYuHbPRKfgFHvYB5K-IzqomQ=:0" type="video/mp4">
     您的浏览器不支持视频播放。
 </video>
