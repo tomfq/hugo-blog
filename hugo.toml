@@ -1,10 +1,10 @@
 baseURL = "https://hugo-blog-taupe.vercel.app/"
 languageCode = "en-us"
-title = "English Mania"
+title = "English Learners"
 theme = "stack"
 
 [params]
-  mainSections = ["post"]
+  mainSections = ["ela","ep365","post"]
   customCSS = ["scss/custom.scss"]
 
 [menu]
@@ -15,6 +15,27 @@ theme = "stack"
     weight = 1
 
   [[menu.main]]
+    identifier = "ela"
+    name = "ELA"
+    url = "/ela/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "ep365"
+    name = "EnglishPod365"
+    url = "/ep365/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "posts"
     name = "Posts"
     url = "/post/"
-    weight = 2
+    weight = 4
+
+  [[menu.main]]
+	name = "Categories"
+	url = "/categories/"
+
+  [[menu.main]]
+	name = "Tags"
+	url = "/tags/"
