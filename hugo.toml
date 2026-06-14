@@ -39,3 +39,8 @@ theme = "stack"
   [[menu.main]]
 	name = "Tags"
 	url = "/tags/"
+	
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 允许在 Markdown 中使用原生 HTML

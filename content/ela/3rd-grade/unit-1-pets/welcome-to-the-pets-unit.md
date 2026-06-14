@@ -24,7 +24,6 @@ Have you ever had a pet, or made friends with someone else’s pet? Pets can hel
 </audio>
 
 
-
 **Stop and think**
 
 > Do you know any pets who make you happy to be around?
